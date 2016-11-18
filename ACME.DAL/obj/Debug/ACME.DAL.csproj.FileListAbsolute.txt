@@ -1,0 +1,7 @@
+C:\temp\ACME\ACME.DAL\bin\Debug\ACME.DAL.dll
+C:\temp\ACME\ACME.DAL\bin\Debug\ACME.DAL.pdb
+C:\temp\ACME\ACME.DAL\obj\Debug\ACME.DAL.csprojResolveAssemblyReference.cache
+C:\temp\ACME\ACME.DAL\obj\Debug\ACME.DAL.dll
+C:\temp\ACME\ACME.DAL\obj\Debug\ACME.DAL.pdb
+C:\temp\ACME\ACME.DAL\bin\Debug\ACME.Common.dll
+C:\temp\ACME\ACME.DAL\bin\Debug\ACME.Common.pdb

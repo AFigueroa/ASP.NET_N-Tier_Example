@@ -1,0 +1,11 @@
+C:\temp\ACME\ACME.BL\obj\Debug\ACME.BL.csprojResolveAssemblyReference.cache
+C:\temp\ACME\ACME.BL\bin\Debug\ACME.BL.dll
+C:\temp\ACME\ACME.BL\bin\Debug\ACME.BL.pdb
+C:\temp\ACME\ACME.BL\obj\Debug\ACME.BL.dll
+C:\temp\ACME\ACME.BL\obj\Debug\ACME.BL.pdb
+C:\temp\ACME\ACME.BL\bin\Debug\ACME.DAL.dll
+C:\temp\ACME\ACME.BL\bin\Debug\ACME.VMS.dll
+C:\temp\ACME\ACME.BL\bin\Debug\ACME.DAL.pdb
+C:\temp\ACME\ACME.BL\bin\Debug\ACME.VMS.pdb
+C:\temp\ACME\ACME.BL\bin\Debug\ACME.Common.dll
+C:\temp\ACME\ACME.BL\bin\Debug\ACME.Common.pdb

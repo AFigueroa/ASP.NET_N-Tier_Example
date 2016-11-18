@@ -1,0 +1,14 @@
+C:\temp\ACME\ACME.BL.Test\obj\Debug\ACME.BL.Test.csprojResolveAssemblyReference.cache
+C:\temp\ACME\ACME.BL.Test\bin\Debug\ACME.BL.Test.dll
+C:\temp\ACME\ACME.BL.Test\bin\Debug\ACME.BL.Test.pdb
+C:\temp\ACME\ACME.BL.Test\bin\Debug\ACME.BL.dll
+C:\temp\ACME\ACME.BL.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\temp\ACME\ACME.BL.Test\bin\Debug\ACME.BL.pdb
+C:\temp\ACME\ACME.BL.Test\obj\Debug\ACME.BL.Test.dll
+C:\temp\ACME\ACME.BL.Test\obj\Debug\ACME.BL.Test.pdb
+C:\temp\ACME\ACME.BL.Test\bin\Debug\ACME.DAL.dll
+C:\temp\ACME\ACME.BL.Test\bin\Debug\ACME.VMS.dll
+C:\temp\ACME\ACME.BL.Test\bin\Debug\ACME.DAL.pdb
+C:\temp\ACME\ACME.BL.Test\bin\Debug\ACME.VMS.pdb
+C:\temp\ACME\ACME.BL.Test\bin\Debug\ACME.Common.dll
+C:\temp\ACME\ACME.BL.Test\bin\Debug\ACME.Common.pdb

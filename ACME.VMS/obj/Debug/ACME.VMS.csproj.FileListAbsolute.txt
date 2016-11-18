@@ -1,0 +1,5 @@
+C:\temp\ACME\ACME.VMS\bin\Debug\ACME.VMS.dll
+C:\temp\ACME\ACME.VMS\bin\Debug\ACME.VMS.pdb
+C:\temp\ACME\ACME.VMS\obj\Debug\ACME.VMS.csprojResolveAssemblyReference.cache
+C:\temp\ACME\ACME.VMS\obj\Debug\ACME.VMS.dll
+C:\temp\ACME\ACME.VMS\obj\Debug\ACME.VMS.pdb
