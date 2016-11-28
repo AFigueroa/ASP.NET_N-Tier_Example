@@ -20,3 +20,4 @@ C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.DAL\bin\Debug\Entity
 C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.DAL\obj\Debug\ACME.DAL.Migrations.InitialOverallMigration.resources
 C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.DAL\obj\Debug\ACME.DAL.csproj.GenerateResource.Cache
 C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.DAL\obj\Debug\ACME.DAL.Migrations.AddCalculatedOrderItemPurchasePrice.resources
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.DAL\obj\Debug\ACME.DAL.Migrations.AddCustomerIdColumnToAddress.resources

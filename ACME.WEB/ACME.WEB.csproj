@@ -240,6 +240,10 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201611281855083_AddCustomerIdColumnToAddress.cs" />
+    <Compile Include="Migrations\201611281855083_AddCustomerIdColumnToAddress.Designer.cs">
+      <DependentUpon>201611281855083_AddCustomerIdColumnToAddress.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountBindingModels.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -339,6 +343,11 @@
       <Project>{651058c9-e71a-426a-a261-8b5b10ff65b0}</Project>
       <Name>ACME.VMS</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201611281855083_AddCustomerIdColumnToAddress.resx">
+      <DependentUpon>201611281855083_AddCustomerIdColumnToAddress.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

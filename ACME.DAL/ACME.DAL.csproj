@@ -64,6 +64,10 @@
     <Compile Include="Migrations\201611281539040_AddCalculatedOrderItemPurchasePrice.Designer.cs">
       <DependentUpon>201611281539040_AddCalculatedOrderItemPurchasePrice.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201611281855258_AddCustomerIdColumnToAddress.cs" />
+    <Compile Include="Migrations\201611281855258_AddCustomerIdColumnToAddress.Designer.cs">
+      <DependentUpon>201611281855258_AddCustomerIdColumnToAddress.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\AddressRepository.cs" />
@@ -87,6 +91,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201611281539040_AddCalculatedOrderItemPurchasePrice.resx">
       <DependentUpon>201611281539040_AddCalculatedOrderItemPurchasePrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201611281855258_AddCustomerIdColumnToAddress.resx">
+      <DependentUpon>201611281855258_AddCustomerIdColumnToAddress.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

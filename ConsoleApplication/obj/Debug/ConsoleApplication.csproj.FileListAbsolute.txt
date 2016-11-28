@@ -1,0 +1,14 @@
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ConsoleApplication\bin\Debug\ACME.DAL.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ConsoleApplication\bin\Debug\ACME.Common.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ConsoleApplication\bin\Debug\ACME.DAL.pdb
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ConsoleApplication\bin\Debug\ACME.Common.pdb
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

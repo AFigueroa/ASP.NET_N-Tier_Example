@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -26,6 +27,9 @@ namespace ACME.DAL
         public string State { get; set; }
         public string PostalCode { get; set; }
         public string Country { get; set; }
+        [Required]
+        public Customer Customer { get; set; }
+        public int CustomerId { get; set; }
 
     }
 }
