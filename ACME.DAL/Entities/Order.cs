@@ -1,9 +1,6 @@
 ﻿using ACME.Common.Interfaces;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
 
 namespace ACME.DAL
 {
@@ -21,6 +18,9 @@ namespace ACME.DAL
 
         public DateTimeOffset? OrderDate { get; set; }
         public int OrderId { get; private set; }
+
+        [Required]
+        public Customer Customer { get; set; }
 
         public string Log()
         {

@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace ACME.DAL
 {
-    class OrderItem
+    public class OrderItem
     {
         public OrderItem()
         {
@@ -19,10 +15,31 @@ namespace ACME.DAL
         }
 
         public int OrderItemId { get; private set; }
-        public int OrderQuantity { get; set; }
-        public int ProductId { get; set; }
-        public decimal PurchasePrice { get; set; }
+        public int ItemQuantity { get; set; }
+        public Product Product { get; set; }
 
+        private decimal _purchasePrice;
+        public decimal PurchasePrice
+        {
+            get
+            {
+                // Any logic here
+                return _purchasePrice;
+            }
+            set
+            {
+                // Multiply the item price by the ammount of items then return it
+                var price = Product.CurrentPrice;
+                var ammount = ItemQuantity;
+
+                var totalPrice = decimal.Multiply(price, ammount);
+
+                _purchasePrice = totalPrice;
+            }
+        }
+
+        [Required]
+        public Order Order { get; set; }
 
         /// <summary>
         /// Retrieve order item by Id

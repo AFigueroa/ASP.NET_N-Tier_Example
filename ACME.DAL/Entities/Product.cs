@@ -23,7 +23,7 @@ namespace ACME.DAL
         public int ProductId { get; private set; }
 
         // Decimal? defines a nullable type
-        public Decimal? CurrentPrice { get; set; }
+        public Decimal CurrentPrice { get; set; }
         public string ProductDescription { get; set; }
         private String _ProductName;
 

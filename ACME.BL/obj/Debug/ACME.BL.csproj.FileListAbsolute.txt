@@ -9,3 +9,16 @@ C:\temp\ACME\ACME.BL\bin\Debug\ACME.DAL.pdb
 C:\temp\ACME\ACME.BL\bin\Debug\ACME.VMS.pdb
 C:\temp\ACME\ACME.BL\bin\Debug\ACME.Common.dll
 C:\temp\ACME\ACME.BL\bin\Debug\ACME.Common.pdb
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.BL\bin\Debug\ACME.BL.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.BL\bin\Debug\ACME.BL.pdb
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.BL\bin\Debug\ACME.DAL.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.BL\bin\Debug\ACME.VMS.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.BL\bin\Debug\ACME.Common.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.BL\bin\Debug\ACME.DAL.pdb
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.BL\bin\Debug\ACME.VMS.pdb
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.BL\bin\Debug\ACME.Common.pdb
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.BL\obj\Debug\ACME.BL.csprojResolveAssemblyReference.cache
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.BL\obj\Debug\ACME.BL.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.BL\obj\Debug\ACME.BL.pdb
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.BL\bin\Debug\EntityFramework.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.BL\bin\Debug\EntityFramework.xml

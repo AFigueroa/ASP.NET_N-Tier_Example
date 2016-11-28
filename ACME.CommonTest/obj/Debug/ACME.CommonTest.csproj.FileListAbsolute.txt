@@ -7,3 +7,14 @@ C:\temp\ACME\ACME.CommonTest\obj\Debug\ACME.CommonTest.dll
 C:\temp\ACME\ACME.CommonTest\obj\Debug\ACME.CommonTest.pdb
 C:\temp\ACME\ACME.CommonTest\bin\Debug\ACME.DAL.dll
 C:\temp\ACME\ACME.CommonTest\bin\Debug\ACME.DAL.pdb
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.CommonTest\bin\Debug\ACME.CommonTest.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.CommonTest\bin\Debug\ACME.CommonTest.pdb
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.CommonTest\bin\Debug\ACME.Common.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.CommonTest\bin\Debug\ACME.DAL.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.CommonTest\bin\Debug\ACME.Common.pdb
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.CommonTest\bin\Debug\ACME.DAL.pdb
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.CommonTest\obj\Debug\ACME.CommonTest.csprojResolveAssemblyReference.cache
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.CommonTest\obj\Debug\ACME.CommonTest.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.CommonTest\obj\Debug\ACME.CommonTest.pdb
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.CommonTest\bin\Debug\EntityFramework.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.CommonTest\bin\Debug\EntityFramework.xml

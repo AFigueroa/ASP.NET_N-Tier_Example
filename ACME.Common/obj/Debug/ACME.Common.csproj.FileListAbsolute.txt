@@ -3,3 +3,8 @@ C:\temp\ACME\ACME.Common\bin\Debug\ACME.Common.pdb
 C:\temp\ACME\ACME.Common\obj\Debug\ACME.Common.csprojResolveAssemblyReference.cache
 C:\temp\ACME\ACME.Common\obj\Debug\ACME.Common.dll
 C:\temp\ACME\ACME.Common\obj\Debug\ACME.Common.pdb
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.Common\bin\Debug\ACME.Common.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.Common\bin\Debug\ACME.Common.pdb
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.Common\obj\Debug\ACME.Common.csprojResolveAssemblyReference.cache
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.Common\obj\Debug\ACME.Common.dll
+C:\Users\afigu\Documents\GitHub\ASP.NET_N-Tier_Example\ACME.Common\obj\Debug\ACME.Common.pdb
